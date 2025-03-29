@@ -2,6 +2,8 @@
 
 This project creates a custom mouse cursor that tracks the mouse movement within a designated area and changes its size when it enters a specific container element. This is a fun, interactive effect for websites where you want to add a unique user experience.
 
+## Live link : https://piyush-raj-sharma.github.io/Interactive-Custom-Cursor/
+
 ## Features:
 - Custom cursor that follows the mouse movement within the `.main` container.
 - Cursor scales up when it enters the `.container` area.
@@ -25,12 +27,3 @@ This project creates a custom mouse cursor that tracks the mouse movement within
 - You can change the cursor's size by adjusting the `width` and `height` properties in the `.cursor` class in the `style.css` file.
 - The scale effect can be modified by changing the value in the `cursor.style.transform` property in the `mouseTracker.js` file.
 - You can also modify the boundaries by adjusting the `.container` element's dimensions.
-
-## Demo:
-You can check out a live demo of the project [here](#).
-
-## License:
-This project is open source and available under the MIT License.
-
-## Contact:
-For any questions, feel free to reach out to me at: [your-email@example.com]
